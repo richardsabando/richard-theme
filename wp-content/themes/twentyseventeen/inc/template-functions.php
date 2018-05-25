@@ -100,3 +100,4 @@ function twentyseventeen_panel_count() {
 function twentyseventeen_is_frontpage() {
 	return ( is_front_page() && ! is_home() );
 }
+
